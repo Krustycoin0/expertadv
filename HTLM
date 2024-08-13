@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expert Advisor - Francesco Lippo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+        }
+        header h1 {
+            margin: 0;
+        }
+        main {
+            padding: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        footer a {
+            color: #fff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Expert Advisor - Francesco Lippo</h1>
+</header>
+
+<main>
+    <h2>Strategia di Trading</h2>
+    <p>Qui puoi vedere un'immagine rappresentativa della mia strategia di trading utilizzata nei miei Expert Advisor.</p>
+    <img src="Screenshot 2024-08-09 200821.png" alt="Strategia di Trading">
+    <p>Visita il mio profilo su MQL5 per saperne di più:</p>
+    <p><a href="https://www.mql5.com/it/users/francescolippo" target="_blank">https://www.mql5.com/it/users/francescolippo</a></p>
+</main>
+
+<footer>
+    <p>&copy; 2024 Francesco Lippo. Tutti i diritti riservati.</p>
+</footer>
+
+</body>
+</html>
